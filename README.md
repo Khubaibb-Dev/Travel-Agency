@@ -1,2 +1,2 @@
-# Travel-Agency
-Responsive travel agency web using bootstrap php and JS
+# travel-agency-static-website
+Responsive Static Website for Travel Agency
